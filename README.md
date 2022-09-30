@@ -1,4 +1,4 @@
-# <p align = "center"> Projeto Repoprovas-Back </p>
+# <p align = "center"> Prática Docker </p>
 
 <p align="center">
    <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_%28container_engine%29_logo.png"/>
